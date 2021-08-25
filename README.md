@@ -2,7 +2,8 @@
 - 👀 I’m interested in RPC and Gaming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Content creation
-- 📫 Reach me via Discord at https://discord/iotechnologyhell
+- 📫 Reach me via Discord at https://discord.io/technologyhell
+- # Check out on YouTube https://www.youtube.com/technologyhell
 
 <!---
 TechnologyHell/TechnologyHell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
