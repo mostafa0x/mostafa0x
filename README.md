@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TechnologyHell
-- 👀 I’m interested in RPC and Gaming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Content creation
-- 📫 Reach me via Discord at https://discord.io/technologyhell
+- 👀 I’m interested in Web Developement and Gaming
+- 📫 Reach me out at https://technologyhell.carrd.co/
 - Check out on YouTube https://www.youtube.com/technologyhell
 
 <!---
