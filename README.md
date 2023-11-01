@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TechnologyHell
 - 👀 I’m interested in Web Developement and Gaming
-- 📫 Reach me out at https://technologyhell.carrd.co/
+- 📫 Reach me out at https://nitishsingh.pages.dev/
 - Check out on YouTube https://www.youtube.com/technologyhell
 
 <!---
