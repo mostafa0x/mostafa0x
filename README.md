@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm Nitish Singh, a passionate content creator and web developer. I've honed my skills in video editing, graphic design, web development, and digital marketing through a variety of projects. From building educational websites to developing a library management system and even a retro gaming console, I've had the opportunity to explore different aspects of technology.<br><br>As a certified digital marketer, I'm also well-versed in Google Ads and SEO. I'm excited to continue learning and growing in this field, and I'm always open to new projects and collaborations.
-
-
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/technologyhell) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/technologyhell) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technologyhell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishsinghslg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technologyhell) 
 
