@@ -24,3 +24,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=technology&show_icons=true&locale=en" alt="technology" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=technology&" alt="technology" /></p>
+
+
+
+![snake gif]
+(https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+
