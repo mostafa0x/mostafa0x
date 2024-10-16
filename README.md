@@ -1,7 +1,8 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=technologyhell&theme=aura&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true)
+
 
 
 ## 💻 Tech Stack:
