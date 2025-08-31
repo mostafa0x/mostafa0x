@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 💼 Front-End & Mobile App Developer (React / Next.js / React Native)
+- 💼 Front-End & Mobile App Developer (React / Next.js / React Native-Expo)
 - 📱 Currently working with **Expo** and **React Native** to build mobile apps
 - 🎯 Focused on clean UI, interaction design, and UX performance
 - 🛠 Constantly exploring new technologies and tools
@@ -46,13 +46,13 @@ Responsive online store with cart, product admin dashboard, and authentication.
 
 ---
 
-### 💬 [Yalla Moba – Social Media Web App](https://github.com/mostafa0x/yalla-moba)
+### 💬 [Yalla Moba – Social Media Web App & Mobile App](https://github.com/mostafa0x/yalla-moba)
 > Next.js 15 • React 19 • Tailwind CSS  
 Social media app with JWT auth, real-time posts/comments, and infinite scroll.
 
 ---
 
-### 📚 [CodeSphere – Collaborative Knowledge Base](https://github.com/mostafa0x)
+### 📚 [CodeSphere – Collaborative Knowledge Base]
 > Forked from Outline • React • Styled-Components  
 Enhanced team knowledge base with flashcards and Google Tasks sync.
 
