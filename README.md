@@ -1,6 +1,6 @@
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafa0x&show_icons=true&theme=radical)  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa0x&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+(https://github-readme-stats.vercel.app/api?username=mostafa0x&show_icons=true&theme=radical)  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa0x&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> 
 </div>
 
 
