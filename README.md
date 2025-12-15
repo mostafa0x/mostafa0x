@@ -41,7 +41,10 @@
 <div align="center">
 
 ## 🌐 Connect with Me 🍬
- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/technologyhell) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mostafa_0x/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/technologyhell)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mostafa_0x/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](mailto:mostafaahmedxdev@gmail.com)
+[![Itch.io](https://img.shields.io/badge/Itch.io-000000.svg?logo=itch&logoColor=white)](https://mostafaahmed.itch.io/)
+
 </div>
 
 
